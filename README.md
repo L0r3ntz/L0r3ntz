@@ -1,18 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Yusran!
 
-<!--
-**L0r3ntz/L0r3ntz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Informatics Engineering student with a focus on Frontend Development and Graphic Design. My goal is to create web applications that are not only functional but also visually appealing.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+### Frontend Development
+- HTML, CSS, Javascript(Still Learning)
+- Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Graphic Design
+- Adobe Photoshop
+- Adobe Illustrator
+- Figma
+
+## 🌱 Currently Learning
+- TypeScript
+- Laravel
+- Javascript
 
 [![roadmap.sh](https://roadmap.sh/card/wide/669930a3ff02ffb66924c8cf?variant=dark&roadmaps=frontend)](https://roadmap.sh)
