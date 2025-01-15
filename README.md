@@ -17,5 +17,3 @@ I'm a passionate Informatics Engineering student with a focus on Frontend Develo
 - TypeScript
 - Laravel
 - Javascript
-
-[![roadmap.sh](https://roadmap.sh/card/wide/669930a3ff02ffb66924c8cf?variant=dark&roadmaps=frontend)](https://roadmap.sh)
