@@ -55,6 +55,6 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=L0r3ntz&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=L0r3ntz&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=L0r3ntz&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=L0r3ntz&theme=dark&show_border=true&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=L0r3ntz&theme=dark&show_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=L0r3ntz&theme=dark&show_border=true&include_all_commits=false&count_private=true&layout=compact)
